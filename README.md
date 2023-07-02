@@ -1,2 +1,2 @@
 # Image-processing-in-Verilog
-Implementation of averaging filter for smoothning or reducing noise in a image in Verilog
+Implementation of averaging filter for smoothning or noise reduction in a image in Verilog 
